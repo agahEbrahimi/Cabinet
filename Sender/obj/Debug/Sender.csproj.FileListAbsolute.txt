@@ -1,0 +1,6 @@
+C:\Users\agah\Desktop\C# Projects\Cabinet\Sender\bin\Debug\Sender.exe.config
+C:\Users\agah\Desktop\C# Projects\Cabinet\Sender\bin\Debug\Sender.exe
+C:\Users\agah\Desktop\C# Projects\Cabinet\Sender\bin\Debug\Sender.pdb
+C:\Users\agah\Desktop\C# Projects\Cabinet\Sender\obj\Debug\Sender.exe
+C:\Users\agah\Desktop\C# Projects\Cabinet\Sender\obj\Debug\Sender.pdb
+C:\Users\agah\Desktop\C# Projects\Cabinet\Sender\obj\Debug\Sender.csprojResolveAssemblyReference.cache
